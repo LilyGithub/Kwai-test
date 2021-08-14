@@ -127,3 +127,5 @@ while (cNode) {
     console.info(cNode.id);
     cNode = cNode.afterNode;
 }
+
+//用时  2小时
